@@ -1,6 +1,8 @@
 # Qt6-StereoVison-checker-PX2.1
 
-This is to check how well disparity Map is created by ooencv and some calcuration logic.
+This is the system to create diparity map to check how well disparity Map is, through ooencv and some calcuration logic.
+
+and it is for optimizing paramter. 
 
 
 
