@@ -6,10 +6,13 @@ This is to check how well disparity Map is created by ooencv and some calcuratio
 
 # Pixel analyze 
 
+<img src="https://github.com/madara-tribe/Qt6-StereoVison-checker-PX2.1/assets/48679574/80af7510-ad48-43f9-bb16-df8c248d262d" width="400px" height="300px"/>
 
 # Stereo Vison by opencv
 
-# Stereo Vision by classic calcuration formula
+<img src="https://github.com/madara-tribe/Qt6-StereoVison-checker-PX2.1/assets/48679574/ef8ca6cb-8804-444c-b45b-02e56540002a" width="400px" height="300px"/>
+
+# Stereo Vision by classic calculation formula
 
 
 # References
