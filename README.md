@@ -1,5 +1,16 @@
 # Qt6-StereoVison-checker-PX2.1
 
+This is to check how well disparity Map is created by ooencv and some calcuration logic.
+
+
+
+# Pixel analyze 
+
+
+# Stereo Vison by opencv
+
+# Stereo Vision by classic calcuration formula
+
 
 # References
 - [OpenCV stereovision tuner for windows](https://github.com/Ildaron/OpenCV-stereovision-tuner-for-windows/tree/master)
