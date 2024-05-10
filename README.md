@@ -1,8 +1,8 @@
-# Adjust disparity map 
+# Abstract : Adjust disparity map 
 
-This is the system to create diparity map to check how well disparity Map is, through ooencv and some calcuration logic.
+This is the system to create diparity map and check how well disparity Map is, through opencv and specific original calcuration logic.
 
-and it is for optimizing paramter. 
+And it can be used to calibrate, adjust and optimize each paramters as well.
 
 
 
