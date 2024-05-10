@@ -1,4 +1,4 @@
-# Qt6-StereoVison-checker-PX2.1
+# Adjust disparity map 
 
 This is the system to create diparity map to check how well disparity Map is, through ooencv and some calcuration logic.
 
@@ -6,15 +6,17 @@ and it is for optimizing paramter.
 
 
 
-# Pixel analyze 
+## Pixel analyze 
 
 <img src="https://github.com/madara-tribe/Qt6-StereoVison-checker-PX2.1/assets/48679574/80af7510-ad48-43f9-bb16-df8c248d262d" width="400px" height="300px"/>
 
-# Stereo Vison by opencv
+## Stereo Vison by opencv
 
 <img src="https://github.com/madara-tribe/Qt6-StereoVison-checker-PX2.1/assets/48679574/ef8ca6cb-8804-444c-b45b-02e56540002a" width="400px" height="300px"/>
 
-# Stereo Vision by classic calculation formula
+## Stereo Vision by classic calculation formula
+
+<img src="https://github.com/madara-tribe/Qt6-StereoVison-checker-PX2.1/assets/48679574/22f34f8e-6663-4c5c-bd38-c03c91713163" width="400px" height="300px"/>
 
 
 # References
